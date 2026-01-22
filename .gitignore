@@ -1,0 +1,36 @@
+# Ignore compiled executables
+programA
+programB
+*.out
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore temporary I/O files
+io_*.dat
+
+# Ignore generated plots (these should be in the report)
+*.png
+*.pdf
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Keep CSV files (they are deliverables)
+# Keep gnuplot scripts
+# Keep documentation and reports
