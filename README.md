@@ -1,7 +1,6 @@
 # PA01: Processes and Threads
 **Roll Number:** MT25033  
 **Course:** Graduate Research Seminar (GRS)  
-**Deadline:** January 23, 2026
 
 ---
 
